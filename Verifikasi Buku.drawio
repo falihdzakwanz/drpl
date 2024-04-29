@@ -1,9 +1,67 @@
-<mxfile host="app.diagrams.net" modified="2024-04-29T11:59:12.722Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" version="24.3.1" etag="YnvGxGL8U8Jw_D0LbaNA" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-29T12:08:55.785Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="7-mLLVcrWPC1Z950iEyR" version="24.3.1" type="github">
   <diagram name="Page-1" id="dGwyJ8t-PzhHCqPGKR_i">
-    <mxGraphModel>
+    <mxGraphModel dx="993" dy="568" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="AIe4HqdFInSC3g63HVme-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="AIe4HqdFInSC3g63HVme-1" target="AIe4HqdFInSC3g63HVme-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AIe4HqdFInSC3g63HVme-1" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="390" y="70" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="AIe4HqdFInSC3g63HVme-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="AIe4HqdFInSC3g63HVme-2" target="AIe4HqdFInSC3g63HVme-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AIe4HqdFInSC3g63HVme-2" value="Memeriksa Kondisi Buku" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AIe4HqdFInSC3g63HVme-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="AIe4HqdFInSC3g63HVme-4" target="AIe4HqdFInSC3g63HVme-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AIe4HqdFInSC3g63HVme-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="AIe4HqdFInSC3g63HVme-4" target="AIe4HqdFInSC3g63HVme-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AIe4HqdFInSC3g63HVme-4" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="230" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="AIe4HqdFInSC3g63HVme-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="AIe4HqdFInSC3g63HVme-6" target="AIe4HqdFInSC3g63HVme-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AIe4HqdFInSC3g63HVme-6" value="Tidak Ada Penambahan Denda" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AIe4HqdFInSC3g63HVme-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AIe4HqdFInSC3g63HVme-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AIe4HqdFInSC3g63HVme-8" value="&lt;br&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;&amp;nbsp;Penambahan Denda&lt;/span&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AIe4HqdFInSC3g63HVme-10" value="Kondisi Baik" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="240" y="240" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AIe4HqdFInSC3g63HVme-11" value="Kondisi Rusak/Hilang" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="450" y="240" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AIe4HqdFInSC3g63HVme-17" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="360" y="410" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AIe4HqdFInSC3g63HVme-13" value="" style="group" vertex="1" connectable="0" parent="AIe4HqdFInSC3g63HVme-17">
+          <mxGeometry x="25" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AIe4HqdFInSC3g63HVme-14" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#000000;shadow=0;strokeColor=#ffffff;strokeWidth=0;" vertex="1" parent="AIe4HqdFInSC3g63HVme-13">
+          <mxGeometry width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AIe4HqdFInSC3g63HVme-15" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#000000;shadow=0;strokeColor=#ffffff;strokeWidth=2;" vertex="1" parent="AIe4HqdFInSC3g63HVme-13">
+          <mxGeometry x="5" y="5" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="AIe4HqdFInSC3g63HVme-16" value="Keluar Fungsi" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="AIe4HqdFInSC3g63HVme-17">
+          <mxGeometry y="30" width="80" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
