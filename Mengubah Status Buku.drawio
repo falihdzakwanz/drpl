@@ -1,9 +1,41 @@
-<mxfile host="app.diagrams.net" modified="2024-05-12T09:15:03.197Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" version="24.3.1" etag="4txuWLzCuQHq0vdv2t4z" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-12T09:22:55.330Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="9MMc5ffaCU5CsuDfuRPD" version="24.4.0" type="github">
   <diagram name="Page-1" id="Cckh6hDk1KQTY60Oe7kZ">
-    <mxGraphModel>
+    <mxGraphModel dx="934" dy="534" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="iaufxKJLbqFMs7gjGd9S-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="iaufxKJLbqFMs7gjGd9S-1" target="iaufxKJLbqFMs7gjGd9S-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iaufxKJLbqFMs7gjGd9S-1" value="Mengecek Status Peminjama" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="200" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="iaufxKJLbqFMs7gjGd9S-2" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="iaufxKJLbqFMs7gjGd9S-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="100" y="240" as="sourcePoint" />
+            <mxPoint x="240" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iaufxKJLbqFMs7gjGd9S-3" value="Informasi Peminjaman" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="120" y="210" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iaufxKJLbqFMs7gjGd9S-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="iaufxKJLbqFMs7gjGd9S-4" target="iaufxKJLbqFMs7gjGd9S-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iaufxKJLbqFMs7gjGd9S-4" value="Update Status Peminjaman" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="200" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="iaufxKJLbqFMs7gjGd9S-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iaufxKJLbqFMs7gjGd9S-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="770" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iaufxKJLbqFMs7gjGd9S-6" value="Mengembalikan Status Buku yang Baru" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="200" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="iaufxKJLbqFMs7gjGd9S-9" value="Status Buku yang Baru" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="680" y="210" width="80" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
